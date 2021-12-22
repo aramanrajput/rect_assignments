@@ -1,0 +1,10 @@
+.redcolor{
+    color:red
+}
+
+.cont{
+    border: 2px solid black;
+    width: 30%;
+    height: 50px;
+    margin: 20px;
+}
